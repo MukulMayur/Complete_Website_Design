@@ -453,13 +453,13 @@ hr {
   .common-btn {
     padding: 10px 40px;
   }
-  .social-icons {
+   .social-icons {
     width: 10px;
-    font-size: 16px;
+    font-size: 26px;
   }
   .social-icons i {
     border: 2px solid #f67c92;
-    padding: 1px;
+    padding: 2px;
   }
   .about-left-col,
   .about-right-col {
